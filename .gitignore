@@ -32,6 +32,11 @@ Desktop.ini
 # Logs
 *.log
 
+# Python venv
+.venv/
+*.pyc
+__pycache__/
+
 # Secrets / credentials
 secrets.h
 credentials.h
